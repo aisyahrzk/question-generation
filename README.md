@@ -13,7 +13,7 @@ input text:
 `generate questions: Isaac Newton (1643-1727) mewarisi konsepsi mekanikal Descartes tentang jirim. Dalam ketiga "Rules of Reasoning in Philosophy" beliau, Newton menyenaraikan sifat-sifat sejagat jirim sebagai "sambungan, kekerasan, kebolehpercayaan, mobiliti, dan inersia". Begitu juga dalam Optik dia menyangkal bahawa Tuhan mencipta jirim sebagai "zarah pepejal, besar, keras, tidak dapat ditembusi, boleh bergerak", yang "... walaupun begitu keras sehingga tidak pernah memakai atau memecahkan kepingan". Sifat-sifat "primer" jirim telah dipinda pada keterangan matematik, tidak seperti sifat-sifat "sekunder" seperti warna atau rasa. Seperti Descartes, Newton menolak sifat penting sifat sekunder. </s>`
 
 target text:   
-`Bilakah Descartes dilahirkan? <sep> Apa yang ditulis oleh Descartes? <sep> Apa yang ditolak oleh Newton yang Descartes tidak? <sep> Apa yang dikatakan Descartes adalah sifat-sifat universal jirim? <sep> Kedua-dua sifat primer dan sekunder sesuai dengan bentuk keterangan apa? <sep>	e2e_qg`
+`Bilakah Descartes dilahirkan? <sep> Apa yang ditulis oleh Descartes? <sep> Apa yang ditolak oleh Newton yang Descartes tidak? <sep> Apa yang dikatakan Descartes adalah sifat-sifat universal jirim? <sep> Kedua-dua sifat primer dan sekunder sesuai dengan bentuk keterangan apa? <sep>`
 
 
 ## Inference
