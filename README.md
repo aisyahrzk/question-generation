@@ -21,7 +21,6 @@ To generate questions using the model, follow example from question_generator [n
 
 ## Model
 
-The
 Access the model here:[Link](https://huggingface.co/aisyahhrazak/t5-small-bahasa-questiongenerator)
 
 
